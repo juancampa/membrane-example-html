@@ -1,0 +1,12 @@
+{
+  "tags": ["example", "html", "endpoint"],
+  "schema": {
+    "types": [
+      {
+        "name": "Root",
+        "description": "Serves basic HTML page on its HTTP endpoint.",
+        "actions": []
+      }
+    ]
+  }
+}
